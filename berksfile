@@ -1,0 +1,4 @@
+source "https://supermarket.chef.io/"
+
+
+cookbook "it-job-cookbook-env", git: "git@github.com:Mahansparta/it-job-cookbook-env.git"

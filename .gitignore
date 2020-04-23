@@ -1,0 +1,8 @@
+/venv/
+/.pytest_cache/
+.idea
+.pytest_cache
+__pycache__/
+.DS_Store
+*.log
+provisions.sh
